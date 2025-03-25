@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Krisha!<br>I'm studying Data Science with a concentration in Computer Science and Business Admin at Rutgers University. I am interested in the intersection between business and data!
+Hi, I'm Krisha!<br>I am majoring in Data Science under the Computer Science track with a minor in Business Admin at Rutgers University. I am passionate about exploring the dynamic intersection of business and data.
 - 🔭 I’m currently working on improving my skills in statistical analysis in R to help businesses make data-driven deciscions! 
 - 🌱 I’m currently learning AI/ML topics!
 - 👯 I’m looking to collaborate on projects that involve AI/Ml!=.
