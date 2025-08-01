@@ -1,10 +1,9 @@
 # 💫 About Me:
-Hi, I'm Krisha!<br>I am majoring in Data Science under the Computer Science track with a minor in Business Admin at Rutgers University. I am passionate about exploring the dynamic intersection of business and data.
+Hi, I'm Krisha!<br>I am majoring in Data Science under the Computer Science track with a minor in Business Admin at Rutgers University. I am passionate about exploring the dynamic intersection of business and data and .
 - 🔭 I’m currently working on improving my skills in statistical analysis in R to help businesses make data-driven deciscions! 
-- 🌱 I’m currently learning AI/ML topics!
-- 👯 I’m looking to collaborate on projects that involve AI/Ml!=.
+- 🌱 I’m currently learning ML skills from Cornell Tech's Machine Learning Foundations course!
+- 👯 I’m looking to collaborate on projects that involve AI/Ml!.
 - 📫 How to reach me: patelkrisha719@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coffee chip ice cream :)
 
 
