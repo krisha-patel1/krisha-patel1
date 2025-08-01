@@ -15,7 +15,7 @@ Hi, I'm Krisha!<br>I am majoring in Data Science under the Computer Science trac
 | Project | Description | Tech/Skills |
 |--------|-------------|------|
 | [Climate and Economic Justice](https://github.com/krisha-patel1/Climate-and-Econ-Justice) | Engineered a data-driven tool in Java to identify disadvantaged communities and assess pollution and flood risks across the U.S.| Java + Data Structures & Algorithms |
-| [PAirline Satisfaction Model](https://github.com/krisha-patel1/airline_satisfaction) | Used Naive Bayes and Random Forest algorithms in R to identify the best models to used for predicting passenger satisfaction. | R + rStudio + Supervised Learning |
+| [Airline Satisfaction Model](https://github.com/krisha-patel1/airline_satisfaction) | Used Naive Bayes and Random Forest algorithms in R to identify the best models to used for predicting passenger satisfaction. | R + rStudio + Supervised Learning |
 
 
 # 📊 GitHub Stats:
