@@ -14,8 +14,11 @@ Hi, I'm Krisha!<br>I am majoring in Data Science under the Computer Science trac
 
 | Project | Description | Tech/Skills |
 |--------|-------------|------|
+|[ Breakthrough Tech x Accenture: Pump Predictive Maintenaince Project](https://github.com/DannieciaGray/Accenture-2E-) | Used synthetic sensor data from 50 industrial pumps to train a predictive-maintenance model capable of identifying failures 10 hours in advance. After cleaning the data, engineering features, addressing class imbalance, and evaluating multiple algorithms, our final model achieved 94.8% recall and 99.94% precision, enabling early, reliable failure detection.| Machine Learning + Python + Data Science + Google Colab + SciKitLearn|
+| [Fradulent Job Posting Prediction](https://github.com/tanayvysyaraju/Fraudulent-Job-Prediction) | Used Kaggle Datasets to train Logistic Regression and Random Forest models and then apply the models to real job postings scraped online.| Python + SciKit Learn + Machine Learning + Data Science |
 | [Climate and Economic Justice](https://github.com/krisha-patel1/Climate-and-Econ-Justice) | Engineered a data-driven tool in Java to identify disadvantaged communities and assess pollution and flood risks across the U.S.| Java + Data Structures & Algorithms |
 | [Airline Satisfaction Model](https://github.com/krisha-patel1/airline_satisfaction) | Used Naive Bayes and Random Forest algorithms in R to identify the best models to used for predicting passenger satisfaction. | R + rStudio + Supervised Learning |
+
 
 
 # 📊 GitHub Stats:
